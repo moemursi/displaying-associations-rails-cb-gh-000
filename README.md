@@ -1,4 +1,4 @@
-# Displaying Associations Rails
+ss# Displaying Associations Rails
 
 ## Objectives
 
